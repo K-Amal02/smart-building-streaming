@@ -1,0 +1,17 @@
+# Streaming
+kafka-python>=2.0.2
+pyspark
+pymongo>=4.5.0
+
+# Data processing
+pandas>=2.0.3
+numpy>=1.24.3
+scikit-learn
+
+# Dashboard
+streamlit
+plotly>=5.17.0
+
+# Utils
+python-dotenv>=1.0.0
+jupyter>=1.0.0
