@@ -1,5 +1,5 @@
 """
-data_producer_final.py - Producteur Kafka pour le projet Smart Building.
+data_producer.py - Producteur Kafka pour le projet Smart Building.
 Charge et stream l'INTÉGRALITÉ du dataset historique (Mode 1) ou génère des simulations réalistes (Mode 2).
 """
 import pandas as pd

@@ -6,7 +6,8 @@ def test_mongodb_connection():
     try:
         # Connexion à MongoDB
         client = MongoClient(
-            'mongodb://localhost:27017/',
+            'mongodb://admin:password@localhost:27018/',
+            authSource='admin',
             serverSelectionTimeoutMS=5000
         )
         

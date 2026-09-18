@@ -8,5 +8,5 @@ spark = SparkSession.builder \
     .appName("Test") \
     .getOrCreate()
 
-print("🎉 SUCCÈS! Spark fonctionne avec Hadoop 3.2.2")
+print("🎉 SUCCÈS! Spark fonctionne avec Hadoop 3.2.2") #3.3.6
 spark.stop()
