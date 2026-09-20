@@ -36,7 +36,7 @@ set HADOOP_HOME=C:\hadoop
 set PATH=%HADOOP_HOME%\bin;%PATH%
 ```
 
-5- Lancement: 
+5- Lancement : 
 Dans 3 terminaux séparés :
 ```bash
 # Terminal 1: Spark Streaming (traitement + ML + écriture MongoDB)
