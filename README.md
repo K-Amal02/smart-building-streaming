@@ -29,7 +29,7 @@ cd docker
 docker-compose up -d
 ```
 
-4- Configuration Hadoop (Windows):
+4- Configuration Hadoop (Windows) :
 Spark nécessite 'winutils.exe' sous Windows. Télécharger 'winutils.exe' et 'hadoop.dll' et les placer dans `C:\hadoop\bin`. Définir avant chaque lancement :
 ```bash
 set HADOOP_HOME=C:\hadoop
