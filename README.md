@@ -52,7 +52,7 @@ cd src/dashboard
 streamlit run dashboard.py
 ```
 
-## 👥 Authors 
+## 👥 Équipe 
 
 <p align="left">
   <a href="https://github.com/K-Amal02">
