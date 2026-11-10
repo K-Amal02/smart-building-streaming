@@ -51,3 +51,14 @@ python data_producer.py
 cd src/dashboard
 streamlit run dashboard.py
 ```
+
+## 👥 Authors 
+
+<p align="left">
+  <a href="https://github.com/K-Amal02">
+    <img src="https://github.com/K-Amal02.png" width="40" height="40" style="border-radius: 50%; vertical-align: middle;" alt="Amal"/>
+  </a> 
+  <a href="https://github.com/sirine-hasni">
+    <img src="https://github.com/sirine-hasni.png" width="40" height="40" style="border-radius: 50%; vertical-align: middle;" alt="Sirine"/>
+  </a> 
+</p>
